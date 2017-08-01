@@ -1,13 +1,13 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-paginate: 10 # pagination based on number of posts
+paginate: 1 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 disqus: dbyll
-google_analytics: Javidan
-title: Javidan
+google_analytics: Amin Javidan
+title: Amin Javidan
 
 defaults:
   -
@@ -16,7 +16,7 @@ defaults:
     values:
       title: dbyll
 
-description: Stylish Jekyll Theme
+description: Amin Javidan Homepage
 author:
   name: Amin Javidan
   email: javidanamin@gmail.com
