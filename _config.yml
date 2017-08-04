@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Amin Javidan..
+      title: Amin Javidan
 
 description: Amin Javidan Homepage
 author:
