@@ -16,7 +16,7 @@ defaults:
     values:
       title: Amin Javidan
 
-description: Amin Javidan Homepage
+description: Javidan's Homepage
 author:
   name: Amin Javidan
   email: javidanamin@gmail.com
@@ -25,7 +25,7 @@ author:
   pinterest:
   googlescholar: D3RfJEEAAAAJ&hl
   linkedin: amin-javidan-b2a7bb76
-  bio: Researcher, Programmer
+  bio: Researcher, Developer
   email_md5: 
 
 rss_path: feed.xml
